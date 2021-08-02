@@ -1,0 +1,3 @@
+# Predicting penumonia from chest radiographs with deep learning
+
+I created a deep learning model using chest X-rays to predict whether a patient has pneumonia, with an accuracy of ~98%. I was inspired to complete this project after reading The Digital Doctor by Dr. Robert Wachter, a leading academic physician. His book provides an overview of how technology is revolutionizing healthcare, both for better and worse. One of his examples is in the field of radiology, where artifical intelligence is outperforming specialists, who are typically extremely expensive and in short supply (at least in the U.S.). Deep learning models can be trained to identify disease, in order to fill existing gaps in healthcare. I created this project in Google Colab, using a Kaggle dataset.
